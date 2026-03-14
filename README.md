@@ -133,9 +133,9 @@ API activa
 
 Captura requerida:
 
-```
-screenshots/api_check.png
-```
+
+![API check](/screenshots/api_check.png)
+
 
 ---
 
@@ -173,10 +173,10 @@ El usuario ya existe
 
 Capturas requeridas:
 
-```
-screenshots/register_success.png
-screenshots/register_duplicate.png
-```
+
+![Register success](screenshots/register_success.png)
+![Register duplicate](screenshots/register_duplicate.png)
+
 
 ---
 
@@ -215,10 +215,10 @@ Credenciales incorrectas
 
 Capturas requeridas:
 
-```
-screenshots/login_success.png
-screenshots/login_failed.png
-```
+
+![Login Success](screenshots/login_success.png)
+![Login Failed](screenshots/login_failed.png)
+
 
 ---
 
@@ -242,9 +242,9 @@ Error de conexión
 
 Captura requerida:
 
-```
-screenshots/network_error.png
-```
+
+![Network Error](screenshots/network_error.png)
+
 
 ---
 
