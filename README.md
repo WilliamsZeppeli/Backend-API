@@ -262,4 +262,4 @@ bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt())
 
 # Autor
 
-Proyecto desarrollado como práctica de integración entre **backend REST y cliente Android**.
+Proyecto desarrollado por Jacqueline Williams como tarea de integración entre **backend REST y cliente Android** previa a una práctica.
