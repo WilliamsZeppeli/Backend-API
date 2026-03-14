@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Backend</string>
+    <string name="welcome_logo_desc">Logo de la app</string>
+    <string name="welcome_title">Conecta y Gestiona</string>
+    <string name="welcome_subtitle">Controla tu backend desde una experiencia mas clara y rapida.</string>
+    <string name="welcome_card_title">Comencemos</string>
+    <string name="welcome_card_body">Inicia sesion para acceder a tu espacio o crea una cuenta nueva en segundos.</string>
+    <string name="welcome_login_cta">Iniciar sesion</string>
+    <string name="welcome_register_cta">Crear cuenta</string>
+    <string name="welcome_back_title">Hola, %1$s</string>
+    <string name="welcome_back_subtitle">Inicio de sesion correcto. Ya puedes continuar.</string>
+
+    <string name="login_title">Iniciar sesion</string>
+    <string name="login_subtitle">Ingresa con tus credenciales para continuar.</string>
+    <string name="login_cta">Entrar</string>
+    <string name="login_go_register">No tienes cuenta? Registrate</string>
+    <string name="login_status_idle">Esperando datos...</string>
+    <string name="login_status_loading">Validando credenciales...</string>
+    <string name="login_status_failed">No se pudo iniciar sesion.</string>
+
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Registra un usuario para acceder a la plataforma.</string>
+    <string name="register_cta">Registrarme</string>
+    <string name="register_go_login">Ya tienes cuenta? Inicia sesion</string>
+    <string name="register_status_idle">Completa los campos para crear tu cuenta.</string>
+    <string name="register_status_loading">Creando cuenta...</string>
+    <string name="register_status_success">Cuenta creada correctamente.</string>
+    <string name="register_status_failed">No se pudo completar el registro.</string>
+    <string name="register_success_title">Registro exitoso</string>
+    <string name="register_success_message">Tu cuenta fue creada. Ahora puedes iniciar sesion.</string>
+
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contrasena</string>
+    <string name="password_hint_register">Contrasena (minimo 6 caracteres)</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_empty_fields">Debes completar usuario y contrasena.</string>
+    <string name="error_password_short">La contrasena debe tener al menos 6 caracteres.</string>
+    <string name="error_invalid_credentials">Usuario o contrasena incorrectos.</string>
+    <string name="error_user_exists">El usuario ya existe. Elige otro nombre.</string>
+    <string name="connection_error_title">Sin conexion</string>
+    <string name="connection_error_message">No fue posible conectar con el servidor. Intenta nuevamente.</string>
+    <string name="accept_button">Aceptar</string>
+    <string name="go_to_login_button">Ir a iniciar sesion</string>
+</resources>
